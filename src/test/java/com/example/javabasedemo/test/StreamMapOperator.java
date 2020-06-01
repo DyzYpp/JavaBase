@@ -2,6 +2,8 @@ package com.example.javabasedemo.test;
 
 import com.example.javabasedemo.pojo.Employee;
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+import net.minidev.json.JSONUtil;
+import sun.rmi.log.LogInputStream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -95,5 +97,13 @@ public class StreamMapOperator {
                 })
                 .collect(Collectors.toList());
         System.out.println(employeeList);
+
+        List<String> words = Arrays.asList("hello","world");
+        words.stream()
+                .map(item -> Arrays.stream(item.split("")))
+                .forEach(System.out::println);
+        words.stream()
+                .flatMap(item -> Arrays.stream(item.split("")))
+                .forEach(System.out::println);
     }
 }
