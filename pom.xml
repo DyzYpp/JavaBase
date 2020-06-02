@@ -24,6 +24,43 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
+<!--        <dependency>-->
+<!--            <groupId>com.github.houbb</groupId>-->
+<!--            <artifactId>junitperf</artifactId>-->
+<!--            <version>2.0.0</version>-->
+<!--        </dependency>-->
+
+<!--        <dependency>-->
+<!--            <groupId>com.github.houbb</groupId>-->
+<!--            <artifactId>log-integration</artifactId>-->
+<!--            <version>1.1.8</version>-->
+<!--        </dependency>-->
+
+
+<!--        <dependency>-->
+<!--            <groupId>com.github.houbb</groupId>-->
+<!--            <artifactId>heaven</artifactId>-->
+<!--            <version>0.1.105</version>-->
+<!--        </dependency>-->
+
+<!--        <dependency>-->
+<!--            <groupId>com.github.houbb</groupId>-->
+<!--            <artifactId>paradise-common</artifactId>-->
+<!--            <version>1.1.6</version>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.6.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.houbb</groupId>
+            <artifactId>junitperf</artifactId>
+            <version>2.0.3</version>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
