@@ -24,8 +24,18 @@ public class StreamIntTest {
 
     @BeforeAll
     public static void init() {
-        arr = new int[5];
+        arr = new int[50000000];
         randomInt(arr);
+    }
+    @JunitPerfConfig( warmUp = 1000, reporter = {HtmlReporter.class})
+    public void testIntFor(){
+        minIntFor(arr);
+    }
+
+
+    @JunitPerfConfig( warmUp = 1000, reporter = {HtmlReporter.class})
+    public void testParallelInt(){
+        minIntParallelStream(arr);
     }
 
     @JunitPerfConfig( warmUp = 1000, reporter = {HtmlReporter.class})
@@ -36,8 +46,6 @@ public class StreamIntTest {
     //    Stream串行查出最小值
     private int minIntStream(int[] arr) {
         int asInt = Arrays.stream(arr).min().getAsInt();
-        System.out.println(arr);
-        System.out.println(asInt);
         return asInt;
     }
 
