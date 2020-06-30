@@ -3,9 +3,7 @@ package com.example.javabasedemo.test;
 import com.github.houbb.junitperf.core.annotation.JunitPerfConfig;
 import com.github.houbb.junitperf.core.report.impl.HtmlReporter;
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -32,7 +30,6 @@ public class StreamIntTest {
         minIntFor(arr);
     }
 
-
     @JunitPerfConfig( warmUp = 1000, reporter = {HtmlReporter.class})
     public void testParallelInt(){
         minIntParallelStream(arr);
@@ -54,7 +51,6 @@ public class StreamIntTest {
         return Arrays.stream(arr).parallel().min().getAsInt();
     }
 
-
     //    for循环查出最小值
     private int minIntFor(int[] arr) {
         int min = Integer.MAX_VALUE;
@@ -65,7 +61,6 @@ public class StreamIntTest {
         }
         return min;
     }
-
 
     //    生成五亿的元素的随机数组
     private static void randomInt(int[] arr) {
