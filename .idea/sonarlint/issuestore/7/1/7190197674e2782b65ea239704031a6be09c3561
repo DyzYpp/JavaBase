@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬¾ª±ÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¬¾ª±ÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(û£ûy
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(‘Æëu
+\
+java:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+<
+java:S14810"&Remove this unused "i" local variable.(Ñ·½À
+U
+java:S2274E":Remove this call to "wait" or move it into a "while" loop.(¹Çžíøÿÿÿÿ
+m
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Æ«›ùÿÿÿÿ
+\
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S1192"GDefine a constant instead of duplicating this literal "basket" 4 times.(¤úí
+<
+java:S1481""&Remove this unused "i" local variable.(Ñ·½À
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(‘Æëu
+]
+java:S1144-"BRemove this unused private "printBasketBallBySynchronized" method.(Æ«›ùÿÿÿÿ
+U
+java:S22744":Remove this call to "wait" or move it into a "while" loop.(¹Çžíøÿÿÿÿ

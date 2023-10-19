@@ -1,0 +1,11 @@
+apollo:
+  bootstrap:
+    enabled: true
+    eagerLoad:
+      enabled: true
+    namespaces: test-apollo
+  meta: http://127.0.0.1:8080
+  cache-dir: E:\i-works\Apollo\cache
+  cluster: default
+
+timeout: 2000

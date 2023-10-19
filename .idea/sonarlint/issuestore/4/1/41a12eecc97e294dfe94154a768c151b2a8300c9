@@ -1,0 +1,15 @@
+
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8„¨šâ±1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÉæÃŸÿÿÿÿÿ8Ùâ¹â±1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Õş’Èüÿÿÿÿ8ùìÛâ±1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(—Õ±ÿÿÿÿÿ8ôğÙâ±1
+]
+java:S11449";Remove this unused private "testCompletableThenRun" method.(¶ŠÈ“ûÿÿÿÿ8—Íâ±1
+c
+java:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8„¨šâ±1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÉæÃŸÿÿÿÿÿ8…ôÉâ±1
+u
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(æ­”²şÿÿÿÿ8ùìÛâ±1
+f
+java:S2147P"DCombine this catch with the one at line 78, which has the same body.(åşŒóùÿÿÿÿ8„¨šâ±1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(üõ÷Ëşÿÿÿÿ8„¨šâ±1

@@ -1,0 +1,9 @@
+
+w
+java:S1104"\Make ageGreaterThan70 a static final constant or non-public and provide accessors if needed.(Í¶Ä£ýÿÿÿÿ
+i
+java:S1104"SMake genderM a static final constant or non-public and provide accessors if needed.(Ö·áé
+Q
+java:S1444"6Make this "public static ageGreaterThan70" field final(Í¶Ä£ýÿÿÿÿ
+C
+java:S1444"-Make this "public static genderM" field final(Ö·áé

@@ -1,0 +1,7 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(×óÂ 
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(á¦›äüÿÿÿÿ
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛĞÓ
+V	java:S125"<This block of commented-out lines of code should be removed.(ù¼º‚şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üƒËºûÿÿÿÿ

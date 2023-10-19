@@ -1,0 +1,13 @@
+
+7
+java:S1116`"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+H
+java:S1481"-Remove this unused "mailUtil" local variable.(€î½©ýÿÿÿÿ
+G
+java:S1481_",Remove this unused "service" local variable.(²ºæŽøÿÿÿÿ
+V
+java:S1854_";Remove this useless assignment to local variable "service".(²ºæŽøÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "mailUtil".(€î½©ýÿÿÿÿ

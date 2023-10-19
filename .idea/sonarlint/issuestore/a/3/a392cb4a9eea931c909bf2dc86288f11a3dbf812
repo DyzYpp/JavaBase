@@ -1,0 +1,19 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Giraffe" 4 times.(â”¹Èøÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Šœå÷
+K
+java:S1481%"5Remove this unused "streamFormatList" local variable.(Ü—Üó
+R
+java:S1854!"<Remove this useless assignment to local variable "nameStr3".(ÃÏ¯‚
+Z
+java:S1854%"DRemove this useless assignment to local variable "streamFormatList".(Ü—Üó
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Monkey" 4 times.(â”¹Èøÿÿÿÿ
+C
+java:S1481!"-Remove this unused "nameStr3" local variable.(ÃÏ¯‚
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¹”ÏÌ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Lemur" 4 times.(â”¹Èøÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ

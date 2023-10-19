@@ -1,0 +1,20 @@
+
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(žûÃÐýÿÿÿÿ
+P
+java:S1854!":Remove this useless assignment to local variable "alpha2".(šŒîÎ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(£¦‘¨
+N	java:S106="9Replace this use of System.out or System.err by a logger.(þõ‘›
+P	java:S125L"<This block of commented-out lines of code should be removed.(Ù¯ˆr
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(žÉ™Êùÿÿÿÿ
+M	java:S106B"9Replace this use of System.out or System.err by a logger.(Íð·q
+Q	java:S125F"<This block of commented-out lines of code should be removed.(‘Üã«
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ýÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ŸƒÖÀûÿÿÿÿ
+7
+java:S3864["!Remove this use of "Stream.peek".(×äµŒ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+A
+java:S1481!"+Remove this unused "alpha2" local variable.(šŒîÎ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ýøÌ€øÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ

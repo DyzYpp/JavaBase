@@ -1,0 +1,36 @@
+
+W
+java:S1854,"<Remove this useless assignment to local variable "collect1".(èõÃ€úÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "employees".(£ÇÜŠ
+H
+java:S14812"-Remove this unused "employee" local variable.(Ð÷è¤úÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(åûÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+G
+java:S1481'",Remove this unused "collect" local variable.(€Þ‚Ñøÿÿÿÿ
+>
+java:S14813"(Remove this unused "max" local variable.(‘ÑÝ€
+Q	java:S125*"<This block of commented-out lines of code should be removed.(ûÔ÷€
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(“Ìÿá
+V
+java:S1854'";Remove this useless assignment to local variable "collect".(€Þ‚Ñøÿÿÿÿ
+?
+java:S1481!")Remove this unused "list" local variable.(Ý…Û¯
+[
+java:S1128"@Remove this unused import 'freemarker.cache.FileTemplateLoader'.(¨­Œµûÿÿÿÿ
+M
+java:S18543"7Remove this useless assignment to local variable "max".(‘ÑÝ€
+D
+java:S1481".Remove this unused "employees" local variable.(£ÇÜŠ
+W
+java:S18542"<Remove this useless assignment to local variable "employee".(Ð÷è¤úÿÿÿÿ
+N
+java:S1854!"8Remove this useless assignment to local variable "list".(Ý…Û¯
+a
+java:S1128"KRemove this unused import 'org.apache.commons.math3.analysis.function.Max'.(¾ã±Ç
+V	java:S125/"<This block of commented-out lines of code should be removed.(æëã‡þÿÿÿÿ
+H
+java:S1481,"-Remove this unused "collect1" local variable.(èõÃ€úÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¤Ü²­úÿÿÿÿ
