@@ -1,3 +1,5 @@
+server:
+  port: 8089
 apollo:
   # 开启缓存 大量配置下可大幅度提升更新速度
   property:
@@ -8,11 +10,16 @@ apollo:
     enabled: true
     eagerLoad:
       enabled: true
-    namespaces: test-apollo-sit
-  meta: http://127.0.0.1:8080
+    namespaces: test-apollo, test-user
+  meta: http://127.0.0.1:8081
   cache-dir: E:\i-works\Apollo\cache
   cluster: default
 
-listeners: test-apollo-sit, application
+user:
+  username: zhangsan
+  age: 15
+  sex: 男
+
+listeners: test-apollo, test-user, application
 
 

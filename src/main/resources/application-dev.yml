@@ -1,3 +1,5 @@
+server:
+  port: 8088
 apollo:
   # 开启缓存 大量配置下可大幅度提升更新速度
   property:
@@ -8,7 +10,7 @@ apollo:
     enabled: true
     eagerLoad:
       enabled: true
-    namespaces: test-apollo, application
+    namespaces: test-apollo
   meta: http://127.0.0.1:8080
   cache-dir: E:\i-works\Apollo\cache
   cluster: default

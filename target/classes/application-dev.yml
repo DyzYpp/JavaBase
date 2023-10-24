@@ -1,4 +1,11 @@
+server:
+  port: 8088
 apollo:
+  # 开启缓存 大量配置下可大幅度提升更新速度
+  property:
+    names:
+      cache:
+        enable: true
   bootstrap:
     enabled: true
     eagerLoad:
@@ -7,5 +14,12 @@ apollo:
   meta: http://127.0.0.1:8080
   cache-dir: E:\i-works\Apollo\cache
   cluster: default
+  # 覆盖系统属性
+  override-system-properties: true
 
-timeout: 2000
+listeners: test-apollo, application
+
+user:
+  username: zhangsan
+  age: 15
+  sex: 男

@@ -1,9 +1,5 @@
-server:
-  port: 8088
 spring:
   profiles:
-    active: fat
+    active: dev
 app:
-  id: test
-
-env: FAT
+  id: SampleApp
